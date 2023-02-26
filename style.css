@@ -1,0 +1,34 @@
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	background-color: #000000; /* black */
+}
+
+.red-border {
+  border: 3px solid #FF0000; /* red */
+  padding: 20px;
+  margin: 20px;
+}
+
+form {
+	background-color: #FFFFFF; /* white */
+	
+}
+
+a:link {
+	color: #000080; /* blue */
+}
+
+a:active {
+	color: purple;
+}
+
+.echosuccess {
+	background-color: green;
+}
+
+.echowarning {
+	background-color: orange;
+}

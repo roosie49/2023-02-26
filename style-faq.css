@@ -1,0 +1,22 @@
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	background-color: #000000; /* black */
+}
+
+form {
+	border: 3px solid red;
+	margin: 20px;
+	padding: 20px;
+	background-color: #FFFFFF;
+}
+
+a:link {
+	color: #000080; /* blue */
+}
+
+a:active {
+	color: purple;
+}
